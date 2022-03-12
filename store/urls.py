@@ -3,5 +3,5 @@ from .import views
 
 urlpatterns = [
     path('', views.books),
-    path('login',views.login)
+    path('login',views.login, name='login')
 ]
