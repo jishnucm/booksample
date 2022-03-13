@@ -6,4 +6,4 @@ def books(request):
     return render(request,'index.html')
 
 def login(request):
-    return render(request,'login.html',name:'login')
+    return render(request,'login.html')
