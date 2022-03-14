@@ -10,3 +10,9 @@ def login(request):
 
 def signup(request):
     return render(request,'signup.html')
+
+def slogin(request):
+    return render(request,'slogin.html')
+
+def ssignup(request):
+    return render(request,'ssignup.html')
