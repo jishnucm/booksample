@@ -3,7 +3,7 @@
     margin-top: 3em;
 }
 .card-text{
-    padding-left: 2em;
+    padding-left: 1px;
 }
 .sell{
     font-size: 21px;
@@ -25,4 +25,7 @@
 .text2{
     margin-left: 2em;
 
+}
+.text3{
+    margin-left: 1px;
 }
