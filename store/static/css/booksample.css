@@ -1,15 +1,28 @@
-.header{
-   
-    width: 100%;
-    height: 109px;
-    padding-left: 44px;
-    padding-top: 63px;
-
-}
 .text{
     width: 38em;
-    margin-top: 4em;
+    margin-top: 3em;
 }
 .card-text{
     padding-left: 2em;
+}
+.sell{
+    font-size: 21px;
+    text-decoration: none;
+    color: black;
+}
+.head{
+    margin-top: 1em;
+    margin-left: 1em;
+}
+#text1{
+    margin-left: 0px;
+    font-size: 21px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 47px;
+
+}
+.text2{
+    margin-left: 2em;
+
 }
